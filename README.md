@@ -4,7 +4,7 @@ My name is NailerBR or you can just call me Nailer.
 
 I'm a brazilian student interested on Data Science and games.
 
-============================================================================================
+==================================================================================
 
 What I do?
 
